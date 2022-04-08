@@ -20,4 +20,6 @@ Considero que las cualidades que debe poseer un Desarrollador de Software son:
 - Innovación: Ser capaz de mostrar soluciones que no nos pidieron pero den el resultado deseado.
 - Paciencia: Al ejecutar código no resultará a la primera.
 
-Por mi parte, considero que todos estos son pilares fundamentales para que un Desarrollador sea eficiente.
+Por mi parte, considero que todos estos son pilares fundamentales para que un desarrollador sea eficiente.
+
+Es todo por este post, ¡nos vemos en el próximo!
