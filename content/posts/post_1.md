@@ -1,6 +1,6 @@
 ---
 title: "Mi experiencia en Launch X"
-date: 2022-04-06
+date: 2022-04-08
 description: 'Te contaré como llegué hasta este punto de Launch X'
 ---
 
